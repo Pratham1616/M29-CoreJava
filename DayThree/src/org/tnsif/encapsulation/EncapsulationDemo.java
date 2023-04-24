@@ -1,12 +1,12 @@
 package org.tnsif.encapsulation;
 
-public class Encapsulation {
+public class EncapsulationDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		//object creation
-		HDFCbank h=new HDFCbank();
+		HDFCBank h=new HDFCBank();
 		
 		//setter is used to set value
 		h.setCardNo(23456789L);

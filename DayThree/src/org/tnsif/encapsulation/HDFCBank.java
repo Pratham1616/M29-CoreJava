@@ -1,6 +1,6 @@
 package org.tnsif.encapsulation;
 
-public class HDFCbank {
+public class HDFCBank {
 	
 	private Long cardNo;
 	private String cardType;
