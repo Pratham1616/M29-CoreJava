@@ -1,9 +1,7 @@
 package org.tnsif.constructoroverloading;
 
 public class ConstructorOverloadingExample {
-	@SuppressWarnings("unused")
 	private int x;
-	@SuppressWarnings("unused")
 	private int y;
 	
 	//constructor overloading
